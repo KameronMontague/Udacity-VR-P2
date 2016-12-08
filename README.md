@@ -1,2 +1,2 @@
 # Udacity-VR-P2
-Project two of Udacity's VR course is about placing prefabs into an empty apartment and making it unique. The important details are to make sure the game isnt overly taxed so you can run smoothly in VR. Here is the starting files given to me.
+Project two of Udacity's VR course is about placing prefabs into an empty apartment and making it unique. The important details are to make sure the game isnt overly taxed so you can run smoothly in VR. Knowing this I still added an extra apartment that i created in blender next to the apartment given to me for the project. And I still had he frame rate running at around 35. I believe unlit mesh's had a huge factor on this and the general placing of everything.
